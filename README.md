@@ -12,6 +12,6 @@ http://localhost:8501/
 ```
 ### Dependencies:
 ```
-$ pip install streamlit
+$ pip3 install streamlit
 Pytorch
 ```
